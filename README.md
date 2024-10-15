@@ -6,12 +6,13 @@
  
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
  
-- 🔭 Here's my [portfolio](https://siddharth14-portfolio.netlify.app/)                                     
-- 🌱 I’m currently learning DSA
-- 👯 I’m looking to collaborate on Web Development,ML
+- 🔭 Here's my [portfolio](https://siddharth14-portfolio.netlify.app/)
+- 👀 I’m interested in Competitive Programming and Software Development.                                    
+- 🌱 I’m currently learning DSA.
+- 👯 I’m looking to collaborate on Web Development,ML Projects.
 - 📫 How to reach me :
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/siddharth-a-/)
-- Pronouns: Techie😅
+- 😄Pronouns: Techie😅
 
 
 ### 👨‍💻  Skills
