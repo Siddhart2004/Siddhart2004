@@ -25,5 +25,6 @@
 ![Siddharth's Leetcode Stats](https://leetcard.jacoblin.cool/siddhuuse?theme=dark&font=Vesper%20Libre&ext=contest)
 
 ### 📊 Github Stats:
-![Siddharth's GitHub stats](https://github-readme-stats.vercel.app/api?username=siddhart2004&theme=dark&show_icons=true&&hide=issues,contribs)
+![siddhart2004's Stats](https://github-readme-stats.vercel.app/api?username=siddhart2004&theme=dark&show_icons=true&hide_border=false&count_private=true)
+![siddhart2004's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=siddhart2004&theme=dark&show_icons=true&hide_border=false&layout=compact)
 [![Siddharth's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=siddhart2004&bg_color=121112&color=ffffff&line=10f449&point=a0d9b6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
