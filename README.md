@@ -1,6 +1,11 @@
-## Hi there 👋 I am Siddharth
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Siddharth...;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=siddhart2004&label=Profile%20views&color=0e75b6&style=flat" alt="iddhart2004" /> </p>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=siddhart2004&label=Profile%20views&color=0e75b6&style=flat" alt="siddhart2004" /> </p>
 
 🎓 Computer Science Engineering Student
  
