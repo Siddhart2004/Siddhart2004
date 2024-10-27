@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Siddharth...;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Siddharth...&center=true&size=30">
   </a>
 </h1>
 
@@ -51,3 +51,6 @@
 ![siddhart2004's Stats](https://github-readme-stats.vercel.app/api?username=siddhart2004&theme=dark&show_icons=true&hide_border=false&count_private=true)
 ![siddhart2004's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=siddhart2004&theme=dark&show_icons=true&hide_border=false&layout=compact)
 [![Siddharth's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=siddhart2004&bg_color=121112&color=ffffff&line=10f449&point=a0d9b6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<h1 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Nice+to+meet+you!;Let's+Connect...&center=true&size=30" /></a>
+</h1>
