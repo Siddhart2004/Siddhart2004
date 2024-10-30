@@ -67,6 +67,11 @@
     <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
   </a> 
 </div>
+<img src="C:/Users/SIDDHARTH/Downloads/custom_line.png" width="1000" height="2" />
+
+### Hacktoberfest(24) Badges
+
+[![An image of @siddhart2004's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/siddhart2004)](https://holopin.io/@siddhart2004)
 
 <img src="C:/Users/SIDDHARTH/Downloads/custom_line.png" width="1000" height="2" />
 
