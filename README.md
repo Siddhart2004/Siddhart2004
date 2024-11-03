@@ -12,7 +12,6 @@
 
 🎓 **Computer Science Engineering Student**
 
-- 🔭 Here’s my [portfolio](https://siddharth14-portfolio.netlify.app/)
 - 👀 I’m interested in Competitive Programming and Software Development.                                    
 - 🌱 I’m currently learning DSA.
 - 👯 I’m looking to collaborate on Web Development and ML Projects.
