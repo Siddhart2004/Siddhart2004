@@ -15,6 +15,7 @@
 - 👀 I’m interested in Competitive Programming and Software Development.                                    
 - 🌱 I’m currently learning DSA.
 - 👯 I’m looking to collaborate on Web Development and ML Projects.
+- 🔭 Here's my [portfolio](https://siddharth14-portfolio.netlify.app/)    
 - 📫 How to reach me: 
   <br /> 
   [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/siddharth-a-/)
@@ -56,7 +57,7 @@ while not success:
   <img width="48" height="48" src="https://img.icons8.com/color/48/google-colab.png" alt="google-colab"/>
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/anaconda--v2.png" alt="anaconda--v2"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/>
-  <img width="48" height="48" src="https://img.icons8.com/carbon-copy/100/notion.png" alt="notion"/>
+  <img height="48" width="48" src="https://img.icons8.com/color/480/null/notion--v1.png" alt="notion"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma--v1"/>
   <img height="48" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 </p>
