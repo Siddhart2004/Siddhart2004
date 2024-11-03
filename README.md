@@ -21,6 +21,15 @@
   [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/siddharth-a-/)
 - 😄 Pronouns: Techie😅
 
+```python
+while not success:
+    success, failure, effort = False, False, 0
+    if not achieved:
+        failure = True
+        achieved = effort + 1
+    if achieved:
+        success = True
+```
 <img src="C:/Users/SIDDHARTH/Downloads/custom_line.png" width="1000" height="2" />
 
 ### 👨‍💻 Skills
