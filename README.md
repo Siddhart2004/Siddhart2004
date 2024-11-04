@@ -23,7 +23,7 @@
 
 <img src="C:/Users/SIDDHARTH/Downloads/custom_line.png" width="1000" height="2" />
 
-### 👨‍💻 Skills
+### 👨‍💻 Tech Stack
 <p align="center">
   <img width="48" height="48" src="https://img.icons8.com/plasticine/100/python.png" alt="python"/>
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/html-5.png" alt="html-5"/>
@@ -37,12 +37,6 @@
   <img width="48" height="48" src="https://img.icons8.com/color/48/tailwind_css.png" alt="tailwind_css"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/pandas.png" alt="pandas"/>
   <img width="48" height="48" src="https://img.icons8.com/dusk/64/power-bi.png" alt="power-bi"/>
-</p>
-
-<img src="C:/Users/SIDDHARTH/Downloads/custom_line.png" width="1000" height="2" />
-
-### ⚙️ IDE and Tools I Use
-<p align="center">
   <img width="48" height="48" src="https://img.icons8.com/plasticine/100/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/jupyter.png" alt="jupyter"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/google-colab.png" alt="google-colab"/>
@@ -67,8 +61,6 @@
     <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
   </a> 
 </div>
-<img src="C:/Users/SIDDHARTH/Downloads/custom_line.png" width="1000" height="2" />
-
 ### Hacktoberfest(24) Badges
 
 [![An image of @siddhart2004's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/siddhart2004)](https://holopin.io/@siddhart2004)
@@ -84,9 +76,7 @@
 
 ### 📊 Github Stats
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=siddhart2004&theme=dark&show_icons=true&hide_border=true&count_private=true" width="400" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhart2004&theme=dark&show_icons=true&hide_border=true&layout=compact" width="400" height="200" />
-</div>
+ 
 
 [![Siddharth's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=siddhart2004&bg_color=121112&color=ffffff&line=10f449&point=a0d9b6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
