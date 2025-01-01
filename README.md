@@ -42,7 +42,6 @@
   <img width="48" height="48" src="https://img.icons8.com/color/48/google-colab.png" alt="google-colab"/>
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/anaconda--v2.png" alt="anaconda--v2"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/>
-  <img height="48" width="48" src="https://img.icons8.com/color/480/null/notion--v1.png" alt="notion"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma--v1"/>
   <img height="48" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 </p>
